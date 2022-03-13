@@ -4024,6 +4024,23 @@
             "outputFile": "D:\\AndroidStudioProjects\\RecyclerViewExample\\app\\build\\intermediates\\merged_res\\debug\\values_values.arsc.flat",
             "map": [
                 {
+                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\e80082f331930ee76e4a6fbbee9665d4\\transformed\\savedstate-1.1.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    },
+                    "to": {
+                        "startLines": "1512",
+                        "startColumns": "4",
+                        "startOffsets": "91681",
+                        "endColumns": "53",
+                        "endOffsets": "91730"
+                    }
+                },
+                {
                     "source": "D:\\AndroidStudioProjects\\RecyclerViewExample\\app\\src\\main\\res\\values\\themes.xml",
                     "from": {
                         "startLines": "2",
@@ -4062,25 +4079,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\f6c393a3d1bdad786d27299fa34129fa\\transformed\\jetified-appcompat-resources-1.4.1\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,29,36,47,74",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,1702,2087,2684,4317",
-                        "endLines": "28,35,46,73,78",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "1697,2082,2679,4312,4582"
-                    },
-                    "to": {
-                        "startLines": "7996,8023,8030,11633,11660",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "541555,543202,543587,726271,727904",
-                        "endLines": "8022,8029,8040,11659,11664",
-                        "endColumns": "24,24,24,24,24",
-                        "endOffsets": "543197,543582,544179,727899,728169"
-                    }
-                },
-                {
                     "source": "D:\\AndroidStudioProjects\\RecyclerViewExample\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "7,2,3,4,5,6,8",
@@ -4095,23 +4093,6 @@
                         "startOffsets": "29799,45453,45500,45547,46291,46336,46544",
                         "endColumns": "41,46,46,46,44,44,41",
                         "endOffsets": "29836,45495,45542,45589,46331,46376,46581"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\fbe45aa889faf8ec6ce53d389d990a07\\transformed\\jetified-startup-runtime-1.0.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "82",
-                        "endOffsets": "133"
-                    },
-                    "to": {
-                        "startLines": "1592",
-                        "startColumns": "4",
-                        "startOffsets": "96886",
-                        "endColumns": "82",
-                        "endOffsets": "96964"
                     }
                 },
                 {
@@ -4148,6 +4129,25 @@
                         "endLines": "33,595,596,597,598,906,907,908,1740,4733,4736,4739,8922",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "1567,30538,30600,30662,30726,52201,52258,52312,114765,322726,322852,322980,591821"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\535c8dcb3cad0c1e2aaee47f0b72e21c\\transformed\\appcompat-resources-1.4.1\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,29,36,47,74",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,1702,2087,2684,4317",
+                        "endLines": "28,35,46,73,78",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "1697,2082,2679,4312,4582"
+                    },
+                    "to": {
+                        "startLines": "7996,8023,8030,11633,11660",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "541555,543202,543587,726271,727904",
+                        "endLines": "8022,8029,8040,11659,11664",
+                        "endColumns": "24,24,24,24,24",
+                        "endOffsets": "543197,543582,544179,727899,728169"
                     }
                 },
                 {
@@ -4246,6 +4246,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\3bd0adb4a25914da62b652b7ae97008e\\transformed\\startup-runtime-1.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    },
+                    "to": {
+                        "startLines": "1592",
+                        "startColumns": "4",
+                        "startOffsets": "96886",
+                        "endColumns": "82",
+                        "endOffsets": "96964"
+                    }
+                },
+                {
                     "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\aa0b0a8c9b1e212bb265271639532148\\transformed\\drawerlayout-1.1.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -4262,23 +4279,6 @@
                         "endLines": "115,118,917,10100",
                         "endColumns": "55,47,51,24",
                         "endOffsets": "5732,5888,52907,649411"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\2367dd3cefb7d3ede6ba2a7ea6f9944f\\transformed\\jetified-savedstate-1.1.0\\res\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "53",
-                        "endOffsets": "104"
-                    },
-                    "to": {
-                        "startLines": "1512",
-                        "startColumns": "4",
-                        "startOffsets": "91681",
-                        "endColumns": "53",
-                        "endOffsets": "91730"
                     }
                 },
                 {
@@ -4335,7 +4335,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\6399ac92cb7386cb9f8892cc4a9f9d83\\transformed\\jetified-viewpager2-1.0.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\TAEGYU\\.gradle\\caches\\transforms-3\\b90d62104035c390ce795a5678489037\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
